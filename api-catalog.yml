@@ -15,7 +15,7 @@ spring:
 
   info:
     application:
-      name: api-movie
+      name: api-catalog
 
   eureka:
     instance:
