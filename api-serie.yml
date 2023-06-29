@@ -12,7 +12,7 @@ spring:
     baseUrl: http://localhost:9411/
   data:
     mongodb:
-      uri: mongodb://root:root@localhost:27017/serie-dev?authSource=admin
+      uri: mongodb://usr-catalog-mongo:pwd-catalog-mongo@localhost:27018/serie-dev?authSource=catalog
 eureka:
   instance:
     hostname: localhost
